@@ -2,11 +2,11 @@
 title: qIIq, an Equilibrium Investments Private Limited venture
 email: admin@qiiq.co.in
 description: > # this means to ignore newlines until "baseurl:"
-A blog about software that makes life better for individuals and small businesses alike.	
-	
+A blog about software that makes life better for individuals and small businesses alike.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  aantony
 
+github_username:  aantony
 # Build settings
 markdown: kramdown
