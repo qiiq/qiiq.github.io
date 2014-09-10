@@ -7,7 +7,7 @@ categories: qiiq update
 
 #Debian (squeeze) on Soekris as firewall and proxy
 
-![Soekris net5501] ({{ site.url}}/assets/net5501_front.jpg)
+[Soekris net5501] ({{ site.url}}/assets/net5501_front.jpg)
 
 We needed a firewall as well as a proxy caching server. The old desktop we were using as a proxy server was running debian and
 squid proxy server. We wanted something compact capable of running debian.  
