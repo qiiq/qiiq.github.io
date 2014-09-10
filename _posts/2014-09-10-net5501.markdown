@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debian Squeeze on soekris net5501"
-date:  {{ page.date }}
+date: 10 Sep 2014  
 categories: qiiq update
 ---
 
