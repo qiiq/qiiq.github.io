@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debian Squeeze on soekris net5501"
-date:  {{ page.date | date: "%c" }}
+date:  {{ page.date }}
 categories: qiiq update
 ---
 
