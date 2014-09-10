@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debian Squeeze on soekris net5501"
-date:   2014-08-27 17:38:00
+date:   2014-09-10 15:05:00
 categories: qiiq update
 ---
 
@@ -15,7 +15,8 @@ L2 Cache 128KB. The device can boot from a compact flash but we are using a 2.5"
 on the device. 
 
 Here is the website that was helpful for the installation:
- * <a href="http://debian.takhis.net/soekris/soekris.html"> http://debian.takhis.net/soekris/soekris.html </a> 
+
+	* <a href="http://debian.takhis.net/soekris/soekris.html"> http://debian.takhis.net/soekris/soekris.html </a> 
 
 We are running the following applications:
 * Squid proxy server 
