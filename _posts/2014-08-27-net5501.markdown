@@ -8,7 +8,7 @@ categories: qiiq update
 #Debian (squeeze) on Soekris as firewall and proxy
 
 We needed a firewall as well as a proxy caching server. The old desktop we were using as a proxy server was running debian and
-squid proxy server. We wanted something more compact preferably running debian.  
+squid proxy server. We wanted something compact capable of running debian.  
 
 We decided to use <a href="http://soekris.com" target="_tab"> soekris engineering's </a>  net5501. The net5501 configuration is 450 MHZ Geode processor, 256 MB RAM, L1 Cache 128KB, 
 L2 Cache 128KB. The device can boot from a compact flash but we are using a 2.5" 320 GB laptop harddrive. We installed debian squeeze
@@ -20,3 +20,6 @@ We are running the following applications:
 	<li> Samba file sharing service</li>
 </ul>
 	
+## Issues that need to be resolved
+     We are using lvm and the device on bootup, sometimes fails because the /dev/vg_root is not populated. Setting, lvmwait and rootdelay
+is not helping either. 
