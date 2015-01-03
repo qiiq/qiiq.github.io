@@ -1,18 +1,16 @@
 ---
-layout:post
-title:Setting up bitbucket for git
-date:2014-10-01
+layout: post
+title: "Setting up bitbucket for git"
+date: 2014-10-01
 categories: git programming bitbucket
 ---
-
 Following are the outline steps to setup bitbucket four your source code version control using
-git. The following steps requires that you have already setup git on your machine.
-
-1. Setup an account at [https://bitbucket.org](https://bitbucket.org)
-2. Generate a keypair using ssh-keygen. It's better to enter a passphrase.
-3. Take the .pub key generated in step 2 and upload it to bitbucket.   
-4. Add the private key created in step 2 to ssh-agent via ssh-add 
-5. Add the user name and gmail to git as follows
+git. The following steps requires that you have already setup git on your machine.  
+* Setup an account at [https://bitbucket.org](https://bitbucket.org)
+* Generate a keypair using ssh-keygen. It's better to enter a passphrase.
+* Take the .pub key generated in step 2 and upload it to bitbucket.   
+* Add the private key created in step 2 to ssh-agent via ssh-add 
+* Add the user name and gmail to git as follows
 ~~~
 prompt> git config --global user.name = joeshchmo
 prompt> git config --global user.email = joeshchmo
