@@ -1,7 +1,7 @@
 ---
 layout:post
-title:"Setting up bitbucket for git"
-date:2014-01-10
+title:Setting up bitbucket for git
+date:2014-10-01
 categories: git programming bitbucket
 ---
 
