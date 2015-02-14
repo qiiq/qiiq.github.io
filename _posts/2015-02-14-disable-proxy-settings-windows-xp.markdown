@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disable changing proxy settings in Windows XP"
-date: 2014-02-14
+date: 2015-02-14
 categories: Windows XP Registry Setting Proxy Settings
 ---
 1. In the run window, type *mmc*.

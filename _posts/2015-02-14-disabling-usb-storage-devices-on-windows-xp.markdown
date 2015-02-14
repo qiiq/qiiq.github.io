@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disable use of USB storage devices on Windows"
-date: 2014-02-14
+date: 2015-02-14
 categories: Windows Administration Registry Settings Disable
 ---
 1. In the run window, type *regedit* to pull up registry editor. 
